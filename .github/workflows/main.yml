@@ -1,4 +1,4 @@
-ame: CICD using Maven and Jenkins
+name: CICD using Maven and Jenkins
 on: 
   push:
   workflow_dispatch:
